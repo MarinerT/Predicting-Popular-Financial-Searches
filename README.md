@@ -1,4 +1,4 @@
-# Predicting-Popular-Financial-Searches
+# Predicting Popular Financial Searches
 
 ## Introduction and Background
 

@@ -5,5 +5,4 @@
 *.swp
 *.DS_Store
 .cache
-/rawdata
-/practicedata
+/Logs
